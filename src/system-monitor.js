@@ -15,4 +15,4 @@ function mostrarInformacion() {
   console.log('========================\n');
 }
 
-mostrarInformacion();
+module.exports = { mostrarInformacion };
