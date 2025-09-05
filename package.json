@@ -1,0 +1,20 @@
+{
+  "name": "system-analitics-vannesa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanda-1/system-analitics-vannesa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanda-1/system-analitics-vannesa/issues"
+  },
+  "homepage": "https://github.com/juanda-1/system-analitics-vannesa#readme",
+  "description": ""
+}
